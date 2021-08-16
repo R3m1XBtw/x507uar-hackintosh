@@ -1,0 +1,2 @@
+# x507uar-hackintosh
+EFI FOLDER AND MORE FOR ASUS X507UAR 
